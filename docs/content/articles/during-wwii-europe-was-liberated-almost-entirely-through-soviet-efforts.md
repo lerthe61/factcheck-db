@@ -1,0 +1,24 @@
+DISINFO: During WWII Europe was liberated almost entirely through Soviet efforts
+================================================================================
+
+### SUMMARY
+
+Almost 150,000 Red Army soldiers died fighting the Wehrmacht and its collaborators in Lithuania. More than half a million of our soldiers died so that Polish Prime Minister Tusk could spout his stupid nonsense about NATO engineers. And when Stoltenberg points the finger at \[Russia\], he should sometimes be reminded that Norway — his homeland — was liberated at the cost of the lives of tens of thousands of Soviet soldiers. They owe \[Russia\] their lives, both literally and figuratively. They were born in a Europe that was liberated almost entirely through our efforts, our blood and our sacrifice.
+
+### RESPONSE
+
+[Historical revisionism](https://euvsdisinfo.eu/disinformation-cases/?disinfo_keywords%5b%5d=keyword_77395&disinfo_keywords%5b0%5d=keyword_77330&_=1708698458645) claim about [WWII](https://euvsdisinfo.eu/disinformation-cases/?disinfo_keywords%5B0%5D=keyword_77330&_=1708698458645) in the context of the war in Ukraine with the intent to portray EU politicians as mad or incompetent, and Russia as the successor of the Soviet Union as the only power that liberated Europe from Nazism.
+
+Russia is relying on [historical revisionism as an information weapon](https://euvsdisinfo.eu/history-as-an-information-weapon-in-russias-full-scale-war-in-ukraine/) in its full-scale war in Ukraine and its hybrid war against EU and NATO member states. Disinformation efforts have gone as far as creating an alternative reality by [the re-writing of school history books](https://euvsdisinfo.eu/manipulating-memory-rewriting-school-history-books/).
+
+The Soviet Union did not defeat Nazi Germany alone: after July 1941, it was part of the Allies and benefited from alliance support, in particular the lend-lease program which substantially enabled the Soviet forces with critical equipment. Even [Stalin and Marchal Zhukov acknowledged](https://www.rferl.org/a/did-us-lend-lease-aid-tip-the-balance-in-soviet-fight-against-nazi-germany/30599486.html) this essential assitance.
+
+Other European countries like Great Britain were never occupied by the Third Reich and always fought for a free Europe, unlike Soviet Union which shared Poland with the Third Reich on[23 August 1939](https://www.theguardian.com/world/from-the-archive-blog/2019/jul/24/molotov-ribbentrop-pact-germany-russia-1939), and economic exchange memorandum was signed on[29 August 1939](https://avalon.law.yale.edu/20th_century/ns059.asp) and in early February 1940 signed an [economic agreement of cooperation with Nazi Germany](https://avalon.law.yale.edu/20th_century/ns120.asp) for a period of 27 months helping the Nazi-Germany's war efforts through 1939 to 1941.
+
+The Red Army liberated Poland and Lithuania from Nazi occupation, but it didn’t mean liberty for these countries as the USSR kept them under its control for more than 45 years, bringing [decades of communist oppression](https://twitter.com/PolandMFA/status/1218207292879003648). According to Polish historians and views of the predominant part of [Polish society](https://www.rp.pl/artykul/356310-Polacy--rok-1945-to-nowa-okupacja.html), in 1944-1945, the USSR occupied Poland, establishing the undemocratic and repressive [Communist Poland](https://www.britannica.com/place/Poland/Communist-Poland).
+
+As for the "liberation of Lithuania", hundreds of thousands of innocent people [became the victims of two Soviet occupations](https://gulag.online/articles/soviet-repression-and-deportations-in-the-baltic-states?locale=pl) of the Baltic States: Lithuania, Latvia and Estonia. Many were executed, imprisoned or sent to Gulag camps, though the largest number of victims comprised those deported from their homelands to inhospitable corners of Soviet Russia. The biggest waves of deportation took place in 1941 (the so-called June deportations) and in 1949 (the March deportations).
+
+Russia continues to threaten European countries after every mention of NATO assistance to Ukraine, or even after discussions about the introduction of military contingents from some Alliance member states. In all instances, this is another bluff meant to scare European politicians and make them abandon the idea of providing Ukraine with more military support.
+
+Read similar disinformation cases claiming that [the Soviet Union fought Nazism alone](https://euvsdisinfo.eu/report/the-soviet-union-fought-nazism-alone/), that [Poland exists as a state only thanks to the USSR and Russia](https://euvsdisinfo.eu/report/poland-exists-as-a-state-only-thanks-to-the-ussr-and-russia/) and that [Poland must pay Russia financial compensation for WWII liberation](https://euvsdisinfo.eu/report/poland-must-pay-russia-financial-compensation-for-wwii-liberation/).

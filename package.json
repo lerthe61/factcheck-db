@@ -1,0 +1,30 @@
+{
+  "name": "factcheck-db",
+  "version": "1.0.0",
+  "description": "Attempt to make searchable database of factcheck",
+  "scripts": {
+    "test": "npm run format && npm run jscpd",
+    "fix": "npx prettier . --write && npx markdownlint-cli -f .",
+    "format": "npx prettier . --check",
+    "jscpd": "npx jscpd .",
+    "docs:install": "pip install mkdocs-material mkdocs-git-revision-date-localized-plugin mkdocs-glightbox",
+    "docs": "cd docs && mkdocs build -s",
+    "mdlint": "npx markdownlint-cli -f ."
+  },
+  "repository": {
+    "type": "GitHub",
+    "url": "https://github.com/borysl/factcheck-db/settings/pages"
+  },
+  "author": "Borys Lebeda",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.6",
+    "jscpd": "^3.5.10",
+    "markdownlint": "^0.32.1",
+    "markdownlint-cli": "^0.38.0",
+    "prettier": "^3.2.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "davidanson.vscode-markdownlint",
+    "telesoho.vscode-markdown-paste-image",
+    "esbenp.prettier-vscode",
+    "shd101wyy.markdown-preview-enhanced"
+  ]
+}

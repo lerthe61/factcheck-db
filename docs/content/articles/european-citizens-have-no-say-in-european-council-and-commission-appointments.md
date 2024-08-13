@@ -1,0 +1,18 @@
+DISINFO: European citizens have no say in European Council and Commission appointments
+======================================================================================
+
+### SUMMARY
+
+Ordinary citizens have no influence on the appointment of the Presidents of the European Commission and the European Council. This situation is quite unique, but it is clear that the current political elite are very happy with it.
+
+### RESPONSE
+
+Recurring pro-Kremlin disinformation narrative claiming an [undemocratic EU](https://euvsdisinfo.eu/report/the-eu-is-totally-undemocratic/).
+
+The [European Council](https://www.consilium.europa.eu/en/european-council/) is the body made of the governments, elected by the citizens in national elections each member state. The [European Commission](https://europa.eu/european-union/about-eu/institutions-bodies/european-commission_en) is the EU's executive arm. Commissioners are first appointed by EU member states and then, as candidates, take part in hearings in the European Parliament. The EP members - which are elected by EU citizens directly - can reject a candidate and have [exercised](https://www.ft.com/content/6b47b8ca-4f0d-11e4-9c88-00144feab7de) this power in the past. As for the President of the European Commission, the candidacy needs to be agreed by the European Council, which is formed by democratically elected leaders of every member state. The European Commission as a whole is subject to a vote of consent by the Parliament and its members are then appointed by the European Council, acting by a qualified majority. In the whole process of appointing new EU leaders, the results of the European elections have to be taken into account.
+
+Additionally, [the European Parliament](https://www.europarl.europa.eu/factsheets/en/sheet/19/the-european-parliament-powers) is one of the two co-legislators, which means that without it, legislation is not adopted. It also approves the EU budget, has control powers and the right to intervene before the European Court of Justice.
+
+Finally, [Article 5 of the Treaty on the European Union ensures](https://eur-lex.europa.eu/summary/glossary/subsidiarity.html) the principle of subsidiarity, which guarantees that decisions are taken as closely as possible to the citizen and that constant checks are made to verify that action at EU level is justified in light of the possibilities available at national, regional or local level. It is the principle whereby the EU does not take action (except in the areas that fall within its exclusive competence), unless it is more effective than action taken at national, regional or local level.
+
+See similar cases that [the European Commission is one of the most undemocratic institutions](https://euvsdisinfo.eu/report/european-commission-is-highly-undemocratic/); that [no one elected European Council, nor European Commission](https://euvsdisinfo.eu/report/no-one-elected-european-council-nor-european-commission/); that [the European Parliament has no effect on the EU Commission](https://euvsdisinfo.eu/report/the-european-parliament-has-no-effect-on-the-eu-commission/), that the [European Parliament decides practically nothing in the EU](https://euvsdisinfo.eu/report/european-parliament-decides-practically-nothing-in-the-eu/), and that [the European Parliament does not have real powers](https://euvsdisinfo.eu/report/european-parliament-does-not-have-real-powers-eu-bureaucrats-decide/).

@@ -1,0 +1,16 @@
+{
+  "threshold": 7,
+  "reporters": ["html", "console"],
+  "ignore": ["node_modules", "jscpd-report"],
+  "absolute": false,
+  "gitignore": true,
+  "output": "jscpd-report",
+  "minLines": 5,
+  "minTokens": 40,
+  "mode": "mild",
+  "formatsExts": {
+    "markdown": ["md"],
+    "yaml": ["yaml", "yml"],
+    "typescript": ["ts"]
+  }
+}

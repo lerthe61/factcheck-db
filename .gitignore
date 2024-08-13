@@ -1,0 +1,6 @@
+node_modules
+jscpd-report
+.env
+docs/site
+.cache
+*.bak
