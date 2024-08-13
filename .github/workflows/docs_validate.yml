@@ -16,6 +16,6 @@ jobs:
           python-version: 3.x
       - uses: actions/setup-node@v4
       - run: pip install mkdocs-material mkdocs-git-revision-date-localized-plugin mkdocs-glightbox
-      - run: mkdocs build -s
+      - run: mkdocs build
         working-directory: docs
       - run: npm run mdlint
